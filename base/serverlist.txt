@@ -1,0 +1,1 @@
+stocktrading.duckdns.org:50000:This is the server you want!
